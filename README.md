@@ -18,19 +18,19 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![alt text](image.png)
 
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project is an algorithm centered around painting a rose
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I'm proud of the detail that I added onto the flower and my ability to do all of the code
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would probably write code to get rid of all of the redundant lines
